@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/landing-page/static/css/main.f855e6bc.css",
-    "main.js": "/landing-page/static/js/main.8f96db39.js",
+    "main.css": "/landing-page/static/css/main.ce08ed30.css",
+    "main.js": "/landing-page/static/js/main.85c14a45.js",
     "static/js/453.7ee4257d.chunk.js": "/landing-page/static/js/453.7ee4257d.chunk.js",
+    "static/media/wim-van-t-einde-2NWNOVE20UI-unsplash.png": "/landing-page/static/media/wim-van-t-einde-2NWNOVE20UI-unsplash.db61c4f20ac4aa3ddce9.png",
+    "static/media/ricards-zvagulis-97Pa63wOpnc-unsplash.jpg": "/landing-page/static/media/ricards-zvagulis-97Pa63wOpnc-unsplash.79f57775491977320457.jpg",
+    "static/media/wim-van-t-einde-hbfPwRsM2uo-unsplash.jpg": "/landing-page/static/media/wim-van-t-einde-hbfPwRsM2uo-unsplash.55570aa0a8648befd35e.jpg",
+    "static/media/board.png": "/landing-page/static/media/board.4e2e1ef7f2b41d12c987.png",
+    "static/media/strategy.png": "/landing-page/static/media/strategy.5ec76227f8dd3d228fa8.png",
+    "static/media/chess.png": "/landing-page/static/media/chess.f65f9f66e001898351e3.png",
+    "static/media/searching.png": "/landing-page/static/media/searching.591239d797b3f969b3ba.png",
+    "static/media/lose.png": "/landing-page/static/media/lose.3431b2c016e7345419d4.png",
+    "static/media/charter.png": "/landing-page/static/media/charter.f433b8d434f04b481bd5.png",
+    "static/media/chess-board.png": "/landing-page/static/media/chess-board.1bdf6bc922c76a4676c0.png",
+    "static/media/chess-clock.png": "/landing-page/static/media/chess-clock.eb6deec92368dbefaa00.png",
     "static/media/logo.svg": "/landing-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/landing-page/index.html",
-    "main.f855e6bc.css.map": "/landing-page/static/css/main.f855e6bc.css.map",
-    "main.8f96db39.js.map": "/landing-page/static/js/main.8f96db39.js.map",
+    "main.ce08ed30.css.map": "/landing-page/static/css/main.ce08ed30.css.map",
+    "main.85c14a45.js.map": "/landing-page/static/js/main.85c14a45.js.map",
     "453.7ee4257d.chunk.js.map": "/landing-page/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.8f96db39.js"
+    "static/css/main.ce08ed30.css",
+    "static/js/main.85c14a45.js"
   ]
 }
